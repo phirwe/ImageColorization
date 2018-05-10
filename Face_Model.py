@@ -3,7 +3,7 @@
 
 '''
 
-This model is trained for 1000 epochs on April 21 on scenes.
+This model is trained for 1000 epochs on April 21 on faces.
 
 '''
 
